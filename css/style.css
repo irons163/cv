@@ -1,0 +1,35 @@
+
+  body{
+    background-color: #EAF6F6;
+  }
+
+  hr{
+    background-color: white;
+    border-style: dotted none none none;
+    border-color: grey;
+    border-width: 5px;
+    height: 0px;
+    width: 5%;
+  }
+
+  h1{
+    color: #3FF6F6;
+  }
+
+  h3{
+    color: #3FF6F6;
+  }
+
+  img:hover{
+    background-color: blue;
+  }
+
+  .icon{
+    background-color: red;
+    border-width: 2px;
+    border-style: dotted;
+  }
+
+  #ID{
+    color: #000000;
+  }
